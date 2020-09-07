@@ -1,3 +1,3 @@
-fun() {
-    this.test = "test" ;
-}
+// fun() {
+//     this.test = "test" ;
+// }
