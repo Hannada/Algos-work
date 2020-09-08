@@ -3,5 +3,5 @@
 // }
 
 function Perm () {
-    
+    return [] 
 }
