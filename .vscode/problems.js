@@ -5,3 +5,7 @@
 function Perm () {
     return [] 
 }
+
+function digiRoot () {
+    
+}
