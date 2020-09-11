@@ -7,5 +7,5 @@ function Perm () {
 }
 
 function digiRoot () {
-    // for (x = )
+    for (x = 1, x++, )
 }
