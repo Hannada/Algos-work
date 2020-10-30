@@ -3,7 +3,8 @@
 // }
 
 function Perm () {
-    return [] 
+    // for (x =1;)
+    // return [] 
 }
 
 function digiRoot () {
