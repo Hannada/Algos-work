@@ -4,7 +4,7 @@
 
 function Perm () {
     // for (x =1;)
-    return [] 
+    // return [] 
 }
 
 function digiRoot () {
