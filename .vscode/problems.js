@@ -3,7 +3,7 @@
 // }
 
 function Perm () {
-    // for (x =1;)
+    for (x =1;)
     return [] 
 }
 
