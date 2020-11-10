@@ -3,7 +3,9 @@
 // }
 
 function Perm () {
-    for (x =1;)
+    for (let x = 1; x <= this.length; x++ ) {
+
+    }
     return [] 
 }
 
