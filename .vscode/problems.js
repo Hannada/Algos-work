@@ -10,10 +10,10 @@ function Perm () {
     return [] 
 }
 
-function digiRoot () {
+// function digiRoot () {
 
-}
+// }
 
-function caeser_cipher () {
+// function caeser_cipher () {
     
-}
+// }
