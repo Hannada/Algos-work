@@ -1,6 +1,4 @@
-// function() {
-//     this.test = "test" ;
-// }
+
 
 function Perm () {
     // for (let x = 1; x <= this.length; x++ ) {}
