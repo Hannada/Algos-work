@@ -7,9 +7,9 @@ function Perm () {
     return [] 
 }
 
-function digiRoot () {
-    for (let x = 1; x <= this.length; x++){}
-}
+// function digiRoot () {
+//     for (let x = 1; x <= this.length; x++){}
+// }
 
 function caeser_cipher () {
     
