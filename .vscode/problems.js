@@ -16,5 +16,4 @@ function digiRoot () {
 }
 
 function caeser_cipher () {
-    // Insert alpha
 }
