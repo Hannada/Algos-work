@@ -9,7 +9,6 @@ function Perm () {
 
 function digiRoot () {
     for (let x = 1; x <= this.length; x++){
-        // if 
     }
 }
 
